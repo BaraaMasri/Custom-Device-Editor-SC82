@@ -1,0 +1,105 @@
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\CustomDeviceEditor.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\CustomDeviceEditor.pdb
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Client.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Kernel.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Xdb.Configuration.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Telerik.Web.UI.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Lucene.Net.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Analytics.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Analytics.Processing.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Analytics.Aggregation.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\ComponentArt.Web.UI.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\HtmlAgilityPack.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Stimulsoft.Report.WebDesign.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Stimulsoft.Report.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Stimulsoft.Report.Web.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Analytics.Model.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Analytics.DataAccess.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Marketing.Taxonomy.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Newtonsoft.Json.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.NVelocity.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Analytics.Core.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Stimulsoft.Base.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\ITHit.WebDAV.Server.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Logging.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Mvp.Xml.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Zip.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Logging.Client.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\RadEditor.Net2.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Marketing.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Marketing.Core.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Abstractions.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Client.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Kernel.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Telerik.Web.UI.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Lucene.Net.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\HtmlAgilityPack.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Newtonsoft.Json.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\bin\Debug\Sitecore.Abstractions.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.pdb
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.csprojResolveAssemblyReference.cache
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.csprojResolveAssemblyReference.cache
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\CustomDeviceEditor.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\CustomDeviceEditor.pdb
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Client.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Kernel.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Telerik.Web.UI.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Lucene.Net.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\ComponentArt.Web.UI.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\HtmlAgilityPack.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Newtonsoft.Json.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.NVelocity.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\ITHit.WebDAV.Server.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Logging.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Mvp.Xml.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Zip.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Logging.Client.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\RadEditor.Net2.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Client.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Kernel.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Telerik.Web.UI.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Lucene.Net.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\HtmlAgilityPack.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Newtonsoft.Json.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.NVelocity.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Logging.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\bin\Debug\Sitecore.Zip.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor - Copy\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.pdb
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\CustomDeviceEditor.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\CustomDeviceEditor.pdb
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Client.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Kernel.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Telerik.Web.UI.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Lucene.Net.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\ComponentArt.Web.UI.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\HtmlAgilityPack.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Newtonsoft.Json.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.NVelocity.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\ITHit.WebDAV.Server.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Logging.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Mvp.Xml.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Zip.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Logging.Client.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\RadEditor.Net2.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Client.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Kernel.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Telerik.Web.UI.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Lucene.Net.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\HtmlAgilityPack.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Newtonsoft.Json.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.NVelocity.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Logging.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\bin\Debug\Sitecore.Zip.xml
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.csprojResolveAssemblyReference.cache
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.dll
+C:\BarooFolder\BarooModules\New folder\CustomDeviceEditor82\CustomDeviceEditor\obj\Debug\CustomDeviceEditor.pdb
